@@ -3,50 +3,28 @@
 Webanwendung zur Verwaltung eines Punktesystems in einem Fussballverein. Mitglieder sammeln durch Helfereinsätze Punkte und können ihre Einsätze sowie ihren aktuellen Punktestand verwalten.
 
 # Inhaltsverzeichnis
-
 - [Einleitung](#einleitung)
-
 - [Boards](#boards)
-
-    - [Explore-Board](#explore-board)
-
-    - [Create-Board](#create-board)
-
-    - [Evaluate-Board](#evaluate-board)
-
-    - [Diskussion Feedback Pitch](#diskussion-feedback-pitch)
-
+  - [Explore-Board](#explore-board)
+  - [Create-Board](#create-board)
+  - [Evaluate-Board](#evaluate-board)
+  - [Diskussion Feedback Pitch](#diskussion-feedback-pitch)
 - [Anforderungen](#anforderungen)
-
-    - [Use-Case Diagramm](#use-case-diagramm)
-
-    - [Fachliches Datenmodell](#fachliches-datenmodell)
-
-    - [UI-Mockup](#ui-mockup)
-
-    - [Login mit Auth0](#1-login-mit-auth0)
-
-    - [Mitglieder-Dashboard](#2-mitglieder-dashboard)
-
-    - [Dienstübersicht](#3-dienstübersicht)
-
-    - [Ersatzsuche](#4-ersatzsuche)
-
-    - [Admin-Dashboard](#5-admin-dashboard)
-
-    - [Punkteverwaltung](#6-punkteverwaltung)
-
+  - [Use-Case Diagramm](#use-case-diagramm)
+  - [Fachliches Datenmodell](#fachliches-datenmodell)
+  - [UI-Mockup](#ui-mockup)
+    - [Login mit Auth0](#1-login-mit-auth0)
+    - [Mitglieder-Dashboard](#2-mitglieder-dashboard)
+    - [Dienstübersicht](#3-dienstübersicht)
+    - [Ersatzsuche](#4-ersatzsuche)
+    - [Admin-Dashboard](#5-admin-dashboard)
+    - [Punkteverwaltung](#6-punkteverwaltung)
 - [Implementation](#implementation)
-
-    - [Frontend](#frontend)
-
-    - [KI-Funktionen](#ki-funktionen)
-
-    - [Optionale Anforderungen](#optionale-anforderungen)
-
+  - [Frontend](#frontend)
+  - [KI-Funktionen](#ki-funktionen)
+  - [Optionale Anforderungen](#optionale-anforderungen)
 - [Fazit](#fazit)
-
-    - [Stand der Implementation](#stand-der-implementation)
+  - [Stand der Implementation](#stand-der-implementation)
 
 # Einleitung
 
